@@ -1,0 +1,1 @@
+module.exports = class MVP extends require('obsidian').Plugin{} 
